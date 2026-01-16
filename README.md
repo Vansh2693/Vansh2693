@@ -8,18 +8,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![My GitHub Stats]
-<img src="https://github-readme-stats.vercel.app/api?username=Vansh2693&show_icons=true&hide_border=true&cache_seconds=1800" />
-
-![Top Languages]
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2693&layout=compact&hide_border=true&cache_seconds=1800" />
-
-
-
----
-
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages
@@ -108,12 +96,8 @@ I enjoy building **end-to-end applications**, combining **AI models, backend API
 ---
 
 ## 📫 Let’s Connect
-I am actively looking for **AI / ML Engineer**, **Computer Vision Engineer**, or **Software Engineer (AI / Full-Stack)** roles, internships, and collaborative opportunities.
 
 📧 **Email:** vanshraj2693@email.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/vansh-raj-solanki-b70505231  
 
 ---
-
-## 💡 Fun Fact
-I believe the fastest way to master technology is by **building complete systems — from model → API → UI**.
