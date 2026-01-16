@@ -10,8 +10,13 @@
 
 ## 📊 GitHub Stats
 
-![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vansh2693&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2693&layout=compact&hide_border=true)
+![My GitHub Stats]
+<img src="https://github-readme-stats.vercel.app/api?username=Vansh2693&show_icons=true&hide_border=true&cache_seconds=1800" />
+
+![Top Languages]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh2693&layout=compact&hide_border=true&cache_seconds=1800" />
+
+
 
 ---
 
