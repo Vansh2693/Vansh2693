@@ -1,103 +1,49 @@
-# 👋 Hi, I’m **Vansh Raj Solanki**
-**AI / ML Engineer (Fresher) | Computer Vision Enthusiast | Full-Stack Learner (Spring Boot + React + TypeScript)**
+# 👋 Vansh Raj Solanki
+**AI / ML Engineer (Fresher) | Computer Vision | Full-Stack (Spring Boot + React TS)**
 
-🔗 **GitHub:** https://github.com/Vansh2693  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vansh-raj-solanki-b70505231  
+🔗 [GitHub](https://github.com/Vansh2693) • 
+🔗 [LinkedIn](https://www.linkedin.com/in/vansh-raj-solanki-b70505231)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vansh2693&label=Profile%20Views&style=flat)
+---
+
+## 🧠 Focus
+AI & ML • Deep Learning • Computer Vision • Object Detection •  
+Spring Boot APIs • React + TypeScript • Full-Stack AI Applications
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 🧠 AI / ML / DL
-- Machine Learning  
-- Deep Learning  
-- Computer Vision  
-- Object Detection (YOLO-based models)
+### 🧠 AI / ML / CV
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat)
 
-### 🧩 Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-- RESTful API Development  
-- MVC Architecture  
+### 🧩 Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-- Component-based UI  
-- React + TypeScript  
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### 📚 Libraries & Frameworks
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🧠 Helmet Detection using Computer Vision
-**Tech Stack:** Python, OpenCV, YOLO  
-- Built a **real-time object detection system** for helmet detection  
-- Applied **YOLO-based deep learning models**  
-- Targeted **road safety, surveillance, and compliance monitoring**
+## 📌 Projects
+🧠 **Helmet Detection (CV):** YOLO + OpenCV, real-time safety monitoring  
+🍲 **Food Recipe App:** Python-based data processing app  
+🖼️ **Image Scraping:** Automated dataset generation for ML  
+🌐 **Web Scraping:** Structured data extraction with Python  
 
 ---
 
-### 🍲 Food Recipe Application
-**Tech Stack:** Python  
-- Developed an application to **manage and process recipe data**  
-- Focused on clean logic, modular design, and maintainability  
-
----
-
-### 🖼️ Image Scraping Automation
-**Tech Stack:** Python, Web Scraping  
-- Automated **image dataset collection** from the web  
-- Useful for **ML and computer vision workflows**
-
----
-
-### 🌐 Web Scraping Project
-**Tech Stack:** Python  
-- Extracted structured data from websites  
-- Implemented **request handling, parsing, and automation pipelines**
-
----
-
-## 🚀 About Me
-I am a **Computer Science undergraduate** with strong interests in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**, along with hands-on experience in **Python-based AI projects** and growing expertise in **Spring Boot (backend)** and **React with TypeScript (frontend)**.
-
-I enjoy building **end-to-end applications**, combining **AI models, backend APIs, and modern frontend interfaces**.
-
----
-
-## 🎯 Current Focus
-- Computer Vision & Object Detection  
-- Deep Learning model training and fine-tuning  
-- Spring Boot backend services  
-- React + TypeScript frontend development  
-- Full-stack AI-powered applications  
-
----
-
-## 📈 What I Bring to a Team
-- Strong **problem-solving mindset**  
-- Fast learner with adaptability to new technologies  
-- Clean, maintainable, and scalable code
-  
----
-
-## 📫 Let’s Connect
-
-📧 **Email:** vanshraj2693@email.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vansh-raj-solanki-b70505231  
-
----
+📫 **Contact:** vanshraj2693@email.com  
